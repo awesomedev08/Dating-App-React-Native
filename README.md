@@ -117,8 +117,7 @@ Note
 
 Contributors
 =======
-* [manojsinghnegiwd](https://github.com/manojsinghnegiwd) - Manoj Singh Negi
-* [yashkapoor8710](https://github.com/yashkapoor8710) - Yogesh Kapoor
+* [awesomedev08](https://github.com/awesomedev08) - Awesome Dev
 
 Sponsors
 =======
